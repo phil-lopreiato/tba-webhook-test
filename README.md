@@ -1,5 +1,5 @@
 # tba-webhook-test
-Some super simple scripts for using TBA Webhooks on your computer
+Some super simple scripts for using TBA Webhooks on your computer. Based off of [GitHub's Testing page](https://developer.github.com/webhooks/configuring/)
 
 ## Dependencies
 
